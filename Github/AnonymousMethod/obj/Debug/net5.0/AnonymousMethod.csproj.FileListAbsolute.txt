@@ -1,0 +1,16 @@
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\AnonymousMethod\bin\Debug\net5.0\AnonymousMethod.exe
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\AnonymousMethod\bin\Debug\net5.0\AnonymousMethod.deps.json
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\AnonymousMethod\bin\Debug\net5.0\AnonymousMethod.runtimeconfig.json
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\AnonymousMethod\bin\Debug\net5.0\AnonymousMethod.runtimeconfig.dev.json
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\AnonymousMethod\bin\Debug\net5.0\AnonymousMethod.dll
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\AnonymousMethod\bin\Debug\net5.0\ref\AnonymousMethod.dll
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\AnonymousMethod\bin\Debug\net5.0\AnonymousMethod.pdb
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\AnonymousMethod\obj\Debug\net5.0\AnonymousMethod.csproj.AssemblyReference.cache
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\AnonymousMethod\obj\Debug\net5.0\AnonymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\AnonymousMethod\obj\Debug\net5.0\AnonymousMethod.AssemblyInfoInputs.cache
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\AnonymousMethod\obj\Debug\net5.0\AnonymousMethod.AssemblyInfo.cs
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\AnonymousMethod\obj\Debug\net5.0\AnonymousMethod.csproj.CoreCompileInputs.cache
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\AnonymousMethod\obj\Debug\net5.0\AnonymousMethod.dll
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\AnonymousMethod\obj\Debug\net5.0\ref\AnonymousMethod.dll
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\AnonymousMethod\obj\Debug\net5.0\AnonymousMethod.pdb
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\AnonymousMethod\obj\Debug\net5.0\AnonymousMethod.genruntimeconfig.cache
