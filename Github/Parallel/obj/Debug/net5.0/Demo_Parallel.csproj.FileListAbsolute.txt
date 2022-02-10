@@ -1,0 +1,16 @@
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Parallel\bin\Debug\net5.0\Demo_Parallel.exe
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Parallel\bin\Debug\net5.0\Demo_Parallel.deps.json
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Parallel\bin\Debug\net5.0\Demo_Parallel.runtimeconfig.json
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Parallel\bin\Debug\net5.0\Demo_Parallel.runtimeconfig.dev.json
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Parallel\bin\Debug\net5.0\Demo_Parallel.dll
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Parallel\bin\Debug\net5.0\ref\Demo_Parallel.dll
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Parallel\bin\Debug\net5.0\Demo_Parallel.pdb
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Parallel\obj\Debug\net5.0\Demo_Parallel.csproj.AssemblyReference.cache
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Parallel\obj\Debug\net5.0\Demo_Parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Parallel\obj\Debug\net5.0\Demo_Parallel.AssemblyInfoInputs.cache
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Parallel\obj\Debug\net5.0\Demo_Parallel.AssemblyInfo.cs
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Parallel\obj\Debug\net5.0\Demo_Parallel.csproj.CoreCompileInputs.cache
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Parallel\obj\Debug\net5.0\Demo_Parallel.dll
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Parallel\obj\Debug\net5.0\ref\Demo_Parallel.dll
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Parallel\obj\Debug\net5.0\Demo_Parallel.pdb
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Parallel\obj\Debug\net5.0\Demo_Parallel.genruntimeconfig.cache

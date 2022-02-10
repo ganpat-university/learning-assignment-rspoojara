@@ -1,0 +1,15 @@
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Async_Await\bin\Debug\net5.0\Async_Await.exe
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Async_Await\bin\Debug\net5.0\Async_Await.deps.json
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Async_Await\bin\Debug\net5.0\Async_Await.runtimeconfig.json
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Async_Await\bin\Debug\net5.0\Async_Await.runtimeconfig.dev.json
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Async_Await\bin\Debug\net5.0\Async_Await.dll
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Async_Await\bin\Debug\net5.0\ref\Async_Await.dll
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Async_Await\bin\Debug\net5.0\Async_Await.pdb
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Async_Await\obj\Debug\net5.0\Async_Await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Async_Await\obj\Debug\net5.0\Async_Await.AssemblyInfoInputs.cache
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Async_Await\obj\Debug\net5.0\Async_Await.AssemblyInfo.cs
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Async_Await\obj\Debug\net5.0\Async_Await.csproj.CoreCompileInputs.cache
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Async_Await\obj\Debug\net5.0\Async_Await.dll
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Async_Await\obj\Debug\net5.0\ref\Async_Await.dll
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Async_Await\obj\Debug\net5.0\Async_Await.pdb
+C:\Users\Raj Pujara\OneDrive\Documents\Visual Studio Practice Training\Training Practice\Async_Await\obj\Debug\net5.0\Async_Await.genruntimeconfig.cache
